@@ -10,14 +10,16 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Stock Images](#stock-images)
 - [Stock Videos](#stock-videos)
 - [3D Models](#3d-models)
-- [Cector & Clip Art](#vector-&-clip-art)
-- [Color Schemes and Palettes](#color-schemes-&-palettes)
+- [Vector & Clip Art](#vector-&-clip-art)
+- [Color Schemes & Palettes](#color-schemes-&-palettes)
 - [Fonts](#fonts)
 - [Font Tools](#font-tools)
 - [Design Systems](#design-systems)
 - [Tools](#tools)
 - [Mockups](#mockups)
 - [Agency Websites](#agency-websites)
+- [Design Inspiration](#design-inspiration)
+- [Themes, UI Kits & Templates](#themes-ui-kits-&-templates)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -65,6 +67,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Daily UI](https://www.dailyui.co/) | Daily UI is a series of daily design challenges design inspiration and neat surprise rewards. |
 | [100 Days CSS](https://100dayscss.com/) | Various CSS designs for you to recreate |
 | [Code, Design and GitHub Issue Challenges](https://tevko.github.io/practice/) | Practice your skills by getting random suggestions or creative inspiration! |
+| [CSSBattle](https://cssbattle.dev/) | CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -355,6 +358,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Clippy](https://bennettfeely.com/clippy/) | CSS clip-path maker |
 | [epoch.sh](https://epoch.now.sh/) | Epoch converter |
 | [Ratio Buddy](https://ratiobuddy.com/) | RatioBuddy is a happy little tool to help you calculate aspect ratios. |
+| [RegExr](https://regexr.com/) | RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -420,107 +424,47 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Fintory](https://fintory.com/en) | From research and strategy, to design and implementation, we develop products for the digital future together with leading companies & start-ups. |
 | [Thoughtbot](https://thoughtbot.com/) |thoughtbot is your expert design and development partner. We bring digital products from validation to success and teach you how because we care.  |
 | [RALLY](https://rallyinteractive.com/studio/) | Rally is a small digital product studio in Salt Lake City, Utah. |
+| [Turbulent](https://turbulent.ca/) | We greet every project as an opportunity to challenge thinking, change your perspective, and generate excitement. |
+| [DWL](https://dwl.media/) | Pursues to combine media and aesthetics to create refined visual outputs to help businesses achieve their goals. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Title
-> Description
+## Design Inspiration
+> Websites to help with your design inspiration.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [Dribbble](https://dribbble.com/) | Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals. |
+| [siteInspire](https://www.siteinspire.com/) | siteInspire is a showcase of the finest web and interactive design. |
+| [Landing Pages Hub](https://landub.com/industry/design/) | Community of designers and makers to explore, share, and get inspired by beautifully designed landing pages of startups like yours. |
+| [CallToIdea](https://calltoidea.com/) | Calltoidea is a platform for designers needed to find the right inspiration according to the needs. |
+| [Land-book](https://land-book.com/) | We’ve created this place for Designers, Developers, Product Owners, Marketing Managers, Startupers, Freelancers and, really, for everyone who appreciates fine designs and well-crafted sites. We want to inspire and support you in the process of creating your own unique website projects. |
+| [Good Web Design](http://www.goodweb.design/tags/navbar) | The best landing pages, organized by section |
+| [Convertux](https://interfaces.convertux.com/) | Interfaces by Convertux is a brand-focused collection of user interface (UI) design examples. This collection helps aspiring and seasoned designers make better decisions in work by embracing the approaches of successful brands across the world. |
+| [Collect UI](http://collectui.com/) | A platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, hand picked. |
+| [UI Movement](https://uimovement.com/tag/agency-site/) | Join 29,325 designers & developers who get the best UI design inspiration in their inboxes weekly |
+| [Muzli](https://medium.muz.li/) | The freshest links about design and interactive, from around the web. |
+| [tictoc](https://www.tictocdigital.co.uk/journal) | Thoughts & insights. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Title
-> Description
+## Themes, UI Kits & Templates
+> Collections of themes, UI kits and templates.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [PRIMEREACT](https://www.primefaces.org/primereact/#/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
+| [HTML5 UP](https://html5up.net/) | makes spiffy HTML5 site templates |
+| [Bootswatch](https://bootswatch.com/) | Free themes for Bootstrap |
+| [BootboxJS](http://bootboxjs.com/) | Bootstrap modals made easy |
+| [SimpleMDE Markdown Editor](https://simplemde.com/) | SimpleMDE is a simple, embeddable, and beautiful JS markdown editor |
+| [Tailblocks](https://mertjf.github.io/tailblocks/) | Components created using Tailwind CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Title
-> Description
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
-## Title
-> Description
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
