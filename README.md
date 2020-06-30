@@ -10,6 +10,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Stock Images](#stock-images)
 - [Stock Videos](#stock-videos)
 - [3D Models](#3d-models)
+- [Cector & Clip Art](#vector-&-clip-art)
+- [Color Schemes and Palettes](#color-schemes-&-palettes)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -205,6 +207,64 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [3DXO](https://www.3dxo.com/models) | Finest 3D Models |
 | [Smithsonian 3D Digitization](https://3d.si.edu/explore/) | The 3D Program is a small group of technologists working within the Smithsonian Institution's Digitization Program Office. |
 | [Renderpeople](https://renderpeople.com/free-3d-people/) | Posed People are static scanned 3D People. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Vector & Clip Art
+> Collections of vectors and clipart that can be used for personal and commercial projects.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Vecteezy](https://www.vecteezy.com/) | High quality vector graphics with worry-free licensing for personal and commercial use. |
+| [Freepik](https://www.freepik.com/) | Find Free Vectors, Stock Photos, PSD and Icons |
+| [Free Vectors](https://www.freevectors.net/) | All the images on this site are free to use for personal use and most of them can be used commercially. |
+| [PNG Tree](https://pngtree.com/free-vectors) | On this page, you can find and download free vectors for your design flashlight. |
+| [Vector 4 Free](https://www.vector4free.com) | Free Vector Graphics for Everyone |
+| [Retro Vectors](http://retrovectors.com/) |  source of graphic elements for projects. Quality vector stock that is available for personal and commercial work. |
+| [Adobe Stock](https://stock.adobe.com/vectors) | Discover royalty-free stock vectors |
+| [Clipart](https://www.clipart.email/) | Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Color Schemes & Palettes
+> Websites to help you pick and create color schemes and palettes for your project.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Coolors](https://coolors.co/) | Create the perfect palette or get inspired by thousands of beautiful color schemes. |
+| [Colorable](https://colorable.jxnblk.com/) | Contrast Checker |
+| [Picular](https://picular.co/) | The color of anything |
+| [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) | Adobe Color Wheel |
+| [Adobe Color Examples](https://color.adobe.com/explore) | Example of different color schemes from Adobe |
+| [Lospec](https://lospec.com/palette-list/sweetie-16) | Pixel art color palettes and tutorials |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## SEO
+> Websites to help you improve your sites SEO.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Answer the Public](https://answerthepublic.com/) | Get instant, raw search insights, direct from the minds of your customers |
+| [ahrefs](https://ahrefs.com/) | Ahrefs is an All-in-one SEO toolset, with free Learning materials and a passionate Community & support |
+| [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) | The industry leading website crawler for Windows, MacOS and Ubuntu, trusted by thousands of SEOs and agencies worldwide for technical SEO site audits. |
+| [Ubersuggest](https://neilpatel.com/ubersuggest/) | Want more traffic? Ubersuggest shows you how to win the game of SEO. Just type in a domain or a keyword to get started. |
+| [Google Search Console](https://search.google.com/search-console/about) | Search Console tools and reports help you measure your site's Search traffic and performance, fix issues and make your site shine in Google Search results |
+| [Exploding Topics](https://explodingtopics.com/) | We surface rapidly growing topics before they take off. |
+| [Woorank](https://www.woorank.com/) | Our tools give you actionable insight to help you optimize your website and marketing efforts |
+| [SEO Optime](https://www.seoptimer.com/) | SEO Audit & Reporting Tool  |
+| [Headline Analyzer](https://aminstitute.com/headline/) | Headline Analyzer |
+| [RankSider](http://tools.ranksider.com/header-checker) | Check the crawlability of an URL |
+| [Pingdom](https://www.pingdom.com/) | We help you gain instant insights into your website’s availability and performance so that you can outsmart competition with an amazing end-user experience. |
+| [GTmetrix](https://gtmetrix.com/) | See how your site performs, reveal why it's slow and discover optimization opportunities. |
+| [DigiCert](SSL Certificate Checker) | If you are having a problem with your SSL certificate installation, please enter the name of your server. Our installation diagnostics tool will help you locate the problem and verify your SSL Certificate installation.  |
+| [SpamZilla](https://www.spamzilla.io) | Find Powerful Expired Domains with great backlinks! Millions of domains, 350,000+ added daily! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
