@@ -10,8 +10,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Stock Images](#stock-images)
 - [Stock Videos](#stock-videos)
 - [3D Models](#3d-models)
-- [Vector & Clip Art](#vector-&-clip-art)
-- [Color Schemes & Palettes](#color-schemes-&-palettes)
+- [Vector & Clip Art](#vector--clip-art)
+- [Color Schemes & Palettes](#color-schemes--palettes)
 - [Fonts](#fonts)
 - [Font Tools](#font-tools)
 - [Design Systems](#design-systems)
@@ -19,7 +19,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Mockups](#mockups)
 - [Agency Websites](#agency-websites)
 - [Design Inspiration](#design-inspiration)
-- [Themes, UI Kits & Templates](#themes-ui-kits-&-templates)
+- [Themes, UI Kits & Templates](#themes-ui-kits--templates)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
