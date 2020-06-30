@@ -14,6 +14,10 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Color Schemes and Palettes](#color-schemes-&-palettes)
 - [Fonts](#fonts)
 - [Font Tools](#font-tools)
+- [Design Systems](#design-systems)
+- [Tools](#tools)
+- [Mockups](#mockups)
+- [Agency Websites](#agency-websites)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -73,6 +77,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [GoalKicker eBooks](https://downloads.goalkicker.com/?ocid=AID2339754_TWITTER_oo_spl100000568966683) | Programming Notes for Professionals books |
 | [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) | "Functional-Light JavaScript" explores the core principles of functional programming (FP) as they are applied to JavaScript. |
+| [Monster List of UX Books](https://airtable.com/shr8I9oWiYngztMXC/tblMYuqK7rYdWc9Du/viwgvzxe2l5jNen1G) | Collection of books about UX. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -145,7 +150,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Placeholder.com ](https://placeholder.com/) | The Free Image Placeholder Service Favoured By Designers. |
+| [Placeholder.com](https://placeholder.com/) | The Free Image Placeholder Service Favoured By Designers. |
+| [Lorem Picsum](https://picsum.photos/) | The Lorem Ipsum for photos. |
 | [Unsplash](https://unsplash.com/) | The internet’s source of freely-usable images. |
 | [Pexels](https://www.pexels.com/) | The world's first inclusive free stock photo & video library |
 | [Pixabay](https://pixabay.com/) | Over 1.8 million+ high quality stock images and videos shared by our talented community. |
@@ -244,6 +250,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Adobe Color Examples](https://color.adobe.com/explore) | Example of different color schemes from Adobe |
 | [Lospec](https://lospec.com/palette-list/sweetie-16) | Pixel art color palettes and tutorials |
 | [Colors and Fonts](https://www.colorsandfonts.com/) | Color tools. |
+| [Eggradients](https://www.eggradients.com/) | Gradient Background Colors |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -274,7 +281,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 </div>
 
 ## Fonts
-> Description
+> A collection of free and paid fonts for your projects.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -295,7 +302,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 </div>
 
 ## Font Tools
-> Description
+> Tools to help get the best font matches and detect what fonts others are using.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -311,11 +318,197 @@ A collection of free and paid resources, assets, tools, links and guides for dev
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Design Systems
+> A collection of design systems from various companies and products.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Shopify Polaris](https://polaris.shopify.com/) | Our design system helps us work together to build a great experience for all of Shopify’s merchants. |
+| [Atlassian](https://atlassian.design/) | Use Atlassian’s end-to-end design language to create straightforward and beautiful experiences. |
+| [Marvel](https://marvelapp.com/styleguide/overview/introduction) | As Marvel continues to grow, both as a product and a company, one challenge we are faced with is learning how to refine the Marvel brand identity and apply it cohesively to each of our products. |
+| [Material Design](https://material.io/design) | Create intuitive and beautiful products with Material Design. |
+| [Herokai Purple3](https://design.herokai.com/purple3) | Purple provides guidelines for the aesthetic, function, and form of user interfaces to provide a consistent experience for our customers. |
+| [Mailchimp Patterns](https://ux.mailchimp.com/patterns/color) | Mailchimp design patterns |
+| [IBM Design Language](https://www.ibm.com/design/language/) | This is the guiding ethos behind IBM’s design philosophy and principles. |
+| [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/getting-started/) | The Salesforce Lightning Design System includes the resources to create user interfaces consistent with the Salesforce Lightning principles, design language, and best practices. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Tools
+> A collection of various tools to use during development.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Squoosh](https://squoosh.app/) | Image compression |
+| [Carbon](https://carbon.now.sh/) | Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started. |
+| [PX to REM](https://daniellamb.com/experiments/px-to-rem-calc/) | Calculate pixel values into REM values |
+| [Temp Mail](https://temp-mail.org/) | Disposable email - is a service that allows to receive email at a temporary address that self-destructed after a certain time elapses. |
+| [Base64 Image Converter](https://www.base64-image.de/) | Convert your images to base64  |
+| [Tiny PNG](https://tinypng.com/) | Smart PNG and JPEG compression |
+| [JSONPlaceholder ](https://jsonplaceholder.typicode.com/) | Fake Online REST API for Testing and Prototyping  |
+| [JSON Editor Online](https://jsoneditoronline.org/) | An online JSON editor |
+| [JSON Utils](https://jsonutils.com/) | Generate classes based on JSON Objects |
+| [web.dev Measure](https://web.dev/measure/) | See how well your website performs. Then, get tips to improve your user experience. Sign in to track your progress over time.  |
+| [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards/) | A11Y Nutrition Cards is an attempt to digest and simplify the accessibility expectations when it comes to component authoring. |
+| [Clippy](https://bennettfeely.com/clippy/) | CSS clip-path maker |
+| [epoch.sh](https://epoch.now.sh/) | Epoch converter |
+| [Ratio Buddy](https://ratiobuddy.com/) | RatioBuddy is a happy little tool to help you calculate aspect ratios. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Mockups
+> Description
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Dunnnk](http://dunnnk.com/) | We Generate Beautiful Mockups |
+| [Placeit](https://placeit.net/) | Create mockups, logos, videos & designs in seconds!  |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Agency Websites
+> Agency Websites to be inspired by.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Union](https://union.co/) | A digital agency for brands that want more. |
+| [Parallax](https://parall.ax/) | Parallax is a digital agency with innovation at its core. We solve complex problems and build leading digital products. |
+| [Top Secret](https://wearetopsecret.com/) | A creative powerhouse made up of strategy, traditional design, interactive design and development. Elevating brands with collaboration and intention. |
+| [Grain & Mortar](https://grainandmortar.com/) | Grain & Mortar is a strategy and design studio. We specialize in brand creation, custom websites, and illustration. |
+| [Purple Rock Scissors](https://purplerockscissors.com/) | We are an independent strategic creative agency with technology at our core. |
+| [Locomotive](https://locomotive.ca/en) | We are a forward-thinking team of designers and developers driven by passion — and fuelled by curiosity. |
+| [TwoTwentyTwo](http://twotwentytwo.se/) | TwoTwentyTwo is a new code collective that delivers fully responsive solutions to agencies and brands. |
+| [Netguru](https://www.netguru.com/) | Netguru builds digital products that let people do things differently. |
+| [IDEO](https://www.ideo.com/eu) | We are a global design company committed to creating positive impact. |
+| [Area 17](https://area17.com/) | We plan, create and grow digital products. We help our clients succeed by delivering products that improve life, work and play. |
+| [Huge Inc](https://www.hugeinc.com/) | Huge transforms companies by designing these best-in-class experiences, driven by strong creative and rooted in the technology, data, and organizational strategy required for operational excellence. |
+| [Upstatement](https://www.upstatement.com/) | We don’t come from a typical agency background, so Upstatement doesn’t look like your typical studio. |
+| [9elements](https://9elements.com/) | We create custom software solutions for the web that combine finest craftsmanship with innovative design. |
+| [Briteweb](https://briteweb.com/) | Briteweb is a social impact agency and strategic partner, specializing in branding, digital and marketing solutions for nonprofits, foundations and purpose-driven companies. |
+| [Z1](https://z1.digital/) | We believe the best digital solutions are built at the intersection of business strategy, available technology, and real user’s needs. |
+| [Narrative](https://www.narrativemediagroup.com/) | Our in-house Creative Team has a deep-rooted passion for strategizing, brand development, concepting, collaborating and designing to bring brands to life in a meaningful and big way. |
+| [WORK&CO](https://work.co/) | We design and ship digital products that transform companies. |
+| [Tendril](https://tendril.ca/) | Tendril is an international creative studio with a passion for design-driven stories and experiences. Thriving at the intersection of art and technology, our mission is to inspire and be inspired. |
+| [Instrument](https://www.instrument.com/who-we-are) | We believe in making the best work, and being the best to work with |
+| [Humaan](https://humaan.com/) | We turn ideas into extraordinary digital products & experiences |
+| [Jam3](https://www.jam3.com/) | We create modern experiences for tomorrow’s brands. |
+| [dogstudio](https://dogstudio.co/) | Dogstudio is a multidisciplinary creative studio at the intersection of art, design and technology. |
+| [Hello Monday](https://www.hellomonday.com/) | Hello Monday is a creative studio that makes digital (and magical) ideas, products and experiences. |
+| [Ueno](https://ueno.co/) | Ueno is a full-service agency, busy designing and building beautiful digital products, brands, and experiences. |
+| [Yummygum](https://yummygum.com/) | We are a design studio from Amsterdam. We help startups and established businesses to refine, design and build their digital products. |
+| [BASIC](https://basicagency.com/) | BASIC® is an independent branding & experience design company working at the intersection of culture, design, and technology. |
+| [Handsome](https://www.handsome.is) | Holistic design and innovation for the human experience |
+| [Clay](https://clay.global/) |  Clay is a UI/UX design and branding agency in San Francisco.  |
+| [Cub Studio](https://www.cubstudio.com/) | Cub Studio creates characterful, fun and engaging animations for global brands, sporting institutions, social networks, banks, start-ups and everyone in between. |
+| [Fantasy](https://fantasy.co/) | We design digital products and services used by billions globally |
+| [Fireart](https://fireart.studio/) | Every company has its Cinderella story about those dark times when it has just started hitting the market. |
+| [Cuberto](https://cuberto.com/) | We make things, and we're awesome at it. |
+| [Tubik](https://tubikstudio.com/) | Design, development, and identity for your product |
+| [STRV](https://www.strv.com/) | You have the vision for a stunning digital experience. We’re the software design and engineering team that can bring it to life. |
+| [Ramotion](https://www.ramotion.com/) | Ramotion is a team of multidisciplinary digital product experts focused on branding, UI/UX design, mobile, and web development. |
+| [UNFOLD](https://unfoldagency.com/) | We are a digital creative agency with a flair for what excites. Based in colorful Los Angeles.  |
+| [Underbelly](https://underbelly.is/) | https://unfoldagency.com/ |
+| [Balkan Bros](https://bb.agency/) | Our design is human—centric. We develop functional processes that improve products and services. |
+| [Metalab](https://www.metalab.co/) | For over a decade, we’ve helped everyone from tiny web startups to Fortune 50 companies build products that are simple, beautiful and easy to use. |
+| [Focus Lab](https://focuslabllc.com/) | We build brands that lead and inspire |
+| [Fintory](https://fintory.com/en) | From research and strategy, to design and implementation, we develop products for the digital future together with leading companies & start-ups. |
+| [Thoughtbot](https://thoughtbot.com/) |thoughtbot is your expert design and development partner. We bring digital products from validation to success and teach you how because we care.  |
+| [RALLY](https://rallyinteractive.com/studio/) | Rally is a small digital product studio in Salt Lake City, Utah. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Title
 > Description
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Title
+> Description
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Title
+> Description
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Title
+> Description
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
 | []() |  |
 | []() |  |
 | []() |  |
