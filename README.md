@@ -12,6 +12,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [3D Models](#3d-models)
 - [Cector & Clip Art](#vector-&-clip-art)
 - [Color Schemes and Palettes](#color-schemes-&-palettes)
+- [Fonts](#fonts)
+- [Font Tools](#font-tools)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -241,6 +243,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) | Adobe Color Wheel |
 | [Adobe Color Examples](https://color.adobe.com/explore) | Example of different color schemes from Adobe |
 | [Lospec](https://lospec.com/palette-list/sweetie-16) | Pixel art color palettes and tutorials |
+| [Colors and Fonts](https://www.colorsandfonts.com/) | Color tools. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -265,6 +268,44 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [GTmetrix](https://gtmetrix.com/) | See how your site performs, reveal why it's slow and discover optimization opportunities. |
 | [DigiCert](SSL Certificate Checker) | If you are having a problem with your SSL certificate installation, please enter the name of your server. Our installation diagnostics tool will help you locate the problem and verify your SSL Certificate installation.  |
 | [SpamZilla](https://www.spamzilla.io) | Find Powerful Expired Domains with great backlinks! Millions of domains, 350,000+ added daily! |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Fonts
+> Description
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Google Fonts](https://fonts.google.com/) | Our font catalog places typography front and center, inviting users to explore, sort, and test fonts for use in more than 135 languages. |
+| [Fontjoy](https://fontjoy.com/) | Font pairing made simple |
+| [Use & Modify](https://usemodify.com/) | This is a personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces. Open source licenses make them free to use and modify. |
+| [Figma Google Font Pairings](https://www.figma.com/google-fonts/) | Ready-made Google Font type pairing palettes available to use instantly, for free, in Figma. |
+| [Font Pair](https://fontpair.co/) | Font Pairing |
+| [Hanken Design](https://hanken.co/) | Free and paid fonts |
+| [Colors and Fonts](https://www.colorsandfonts.com/) | Fonts and font pairing. |
+| [Font Flame](http://app.fontflame.com/) | Font Flame ambitiously tries to solve a problem most typography lovers have, namely font pairing. |
+| [FontSpark](https://fontspark.app/) | FontSpark is a simple tool to help designers quickly find the best fonts for their projects. |
+| [Font Space](https://www.fontspace.com/) | Free downloads of legally licensed fonts that are perfect for your design projects. |
+| [Open Foundry](https://open-foundry.com/fonts) | A FREE platform for curated open-source typefaces. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Font Tools
+> Description
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [What Font](http://www.chengyinliu.com/whatfont.html) | WhatFont, with which you can easily get font information about the text you are hovering on. |
+| [Tiff](https://tiff.herokuapp.com/) | A type diff tool that visually contrasts the differences between two fonts. |
+| [Typekit Practice](https://practice.typekit.com/) | Lessons walk through specific topics or methods in the practice of typography, with a clear objective or takeaway skill that can be immediately applied to design work. |
+| [Golden Ratio Typography (GRT) Calculator](https://grtcalculator.com/) | Discover the perfect typography for your website by entering your current font, font size, and content width |
+| [Type Scale](https://type-scale.com/) | A Type Scale tool |
+| [Font Squirrel](https://www.fontsquirrel.com/matcherator) | Upload an image with type and we’ll identify the fonts that match. |
+| [My Fonts](https://www.myfonts.com/WhatTheFont/) | Instant font identification powered by the world’s largest collection of fonts. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
