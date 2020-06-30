@@ -8,6 +8,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Icons](#icons)
 - [Logos](#logos)
 - [Stock Images](#stock-images)
+- [Stock Videos](#stock-videos)
+- [3D Models](#3d-models)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -135,7 +137,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 
 
 ## Stock Images
-> Download free stock images for your personal and commercial projects. Note some images may cost.
+> Download stock images for your personal and commercial projects. Note some images may cost.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -163,6 +165,46 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Foter](https://foter.com/) | 335 Million Free Stock Photos |
 | [Jay Mantri](https://jaymantri.com/) | Free pics. Do anything (CC0). Make Magic. |
 | [Wallpapers.io](https://wallpapers.io/) | The images offered on this website are basically subject to the Creative Commons Zero License CC0, which means that the images can be used for commercial and private purposes - without referring to the author. On this website you can also find pictures, which are subject to some restrictions. These restrictions can be found under each picture. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Stock Videos
+> Download stock videos for your personal and commercial projects. Note some videos may cost.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Pexels](https://www.pexels.com/videos) | The best free stock videos shared by the Pexels community. |
+| [Pixabay](https://pixabay.com/videos/) | Thousands of free stock video clips & footage shared by our talented community. |
+| [Videezy](https://www.videezy.com) | Free HD Stock Footage & 4K Videos! |
+| [Coverr](https://coverr.co/) | Beautiful Free Stock Video Footage |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## 3D Models
+> Collections of free and paid 3D models to use in personal and commerical projects.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Unity Asset Store](https://assetstore.unity.com/?category=3d&orderBy=1) | Free and Paid 3D models |
+| [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free) | Thousands of free 3D models available for download. Files available in all major formats - max, fbx, obj, c4d, maya. |
+| [GrabCad Community](https://grabcad.com/library) | Join 7,560,000 engineers with over 4,300,000 free CAD files |
+| [cgtrader](https://www.cgtrader.com/free-3d-models) | Free 3D models |
+| [Clara.io](https://clara.io/library) | https://www.cgtrader.com/free-3d-models |
+| [3dsky](https://3dsky.org/3dmodels/?style=all&order=free&page=1) | Free and paid 3d models |
+| [Free3D](https://free3d.com/) | Free and paid 3D models. |
+| [Adobe Stock](https://stock.adobe.com/search?filters%5Bcontent_type%3A3d%5D=1&filters%5B3d_type_id%5D%5B0%5D=1&load_type=3d+lp) | Free and paid 3D models. |
+| [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en) |  |
+| [3D CAD BROWSER](https://www.3dcadbrowser.com/3dmodels.aspx?category=free) | Free 3D Models |
+| [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models) | 3D models from NASA |
+| [CAD Blocks Free](https://www.cadblocksfree.com/en/3d-cad-models.html) | FREE 3D CAD Models |
+| [Design Connected](https://www.designconnected.com/Freebies) | If you're new on Design Connected, these freebies are the best way to test the quality of our 3d models, see if they work well with your software and meet your overall expectations. |
+| [3DXO](https://www.3dxo.com/models) | Finest 3D Models |
+| [Smithsonian 3D Digitization](https://3d.si.edu/explore/) | The 3D Program is a small group of technologists working within the Smithsonian Institution's Digitization Program Office. |
+| [Renderpeople](https://renderpeople.com/free-3d-people/) | Posed People are static scanned 3D People. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
