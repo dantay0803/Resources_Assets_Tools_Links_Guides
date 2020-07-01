@@ -81,6 +81,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [GoalKicker eBooks](https://downloads.goalkicker.com/?ocid=AID2339754_TWITTER_oo_spl100000568966683) | Programming Notes for Professionals books |
 | [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) | "Functional-Light JavaScript" explores the core principles of functional programming (FP) as they are applied to JavaScript. |
 | [Monster List of UX Books](https://airtable.com/shr8I9oWiYngztMXC/tblMYuqK7rYdWc9Du/viwgvzxe2l5jNen1G) | Collection of books about UX. |
+| [ithemes](https://ithemes.com/publishing/) | ebooks on freelancing, WordPress, mobile development and other topics. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
