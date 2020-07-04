@@ -12,6 +12,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [3D Models](#3d-models)
 - [Vector & Clip Art](#vector--clip-art)
 - [Color Schemes & Palettes](#color-schemes--palettes)
+- [SEO](#seo)
 - [Fonts](#fonts)
 - [Font Tools](#font-tools)
 - [Design Systems](#design-systems)
