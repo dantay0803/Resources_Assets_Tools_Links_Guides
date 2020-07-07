@@ -280,6 +280,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [GTmetrix](https://gtmetrix.com/) | See how your site performs, reveal why it's slow and discover optimization opportunities. |
 | [DigiCert](SSL Certificate Checker) | If you are having a problem with your SSL certificate installation, please enter the name of your server. Our installation diagnostics tool will help you locate the problem and verify your SSL Certificate installation.  |
 | [SpamZilla](https://www.spamzilla.io) | Find Powerful Expired Domains with great backlinks! Millions of domains, 350,000+ added daily! |
+| [Keyword Tool](https://keywordtool.io) | Generate Titles for sites such as Google, YouTube and eBay etc from autocomplete searches. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
