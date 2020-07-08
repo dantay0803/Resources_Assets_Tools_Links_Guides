@@ -21,6 +21,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Agency Websites](#agency-websites)
 - [Design Inspiration](#design-inspiration)
 - [Themes, UI Kits & Templates](#themes-ui-kits--templates)
+- [Productivity Tools](#productivity-tools)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -471,3 +472,15 @@ A collection of free and paid resources, assets, tools, links and guides for dev
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Productivity Tools
+> Tools to help keep and boots your productivity.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Dave Seah](https://davidseah.com/productivity-tools/) | Here you’ll find tools I’ve made for time tracking, goal setting, task management, and forming habits. |
+| []() |  |
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
