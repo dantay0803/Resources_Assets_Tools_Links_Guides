@@ -10,6 +10,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Stock Images](#stock-images)
 - [Stock Videos](#stock-videos)
 - [3D Models](#3d-models)
+- [Website Backgrounds & Textured Images](#website-backgrounds--textured-images)
 - [Vector & Clip Art](#vector--clip-art)
 - [Color Schemes & Palettes](#color-schemes--palettes)
 - [SEO](#seo)
@@ -131,6 +132,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Ikonate](https://ikonate.com/) | Ikonate are fully customisable & accessible*, well-optimised vector icons. |
 | [App Icon Generator](https://appicon.co/) | App Icon Generator |
 | [Line Icons](https://lineicons.com/) | 2000+ Line Icons for Designers and Developers |
+| [Heroicons](http://www.heroicons.com/) | Heroicons are a unique set of icons for your marketing website that make it easy to customize with CSS to better align to your brand.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
