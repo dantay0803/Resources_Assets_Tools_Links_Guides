@@ -180,7 +180,9 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Skitterphoto](https://skitterphoto.com/) | a place to find, show and share public domain photos |
 | [Foter](https://foter.com/) | 335 Million Free Stock Photos |
 | [Jay Mantri](https://jaymantri.com/) | Free pics. Do anything (CC0). Make Magic. |
-| [Wallpapers.io](https://wallpapers.io/) | The images offered on this website are basically subject to the Creative Commons Zero License CC0, which means that the images can be used for commercial and private purposes - without referring to the author. On this website you can also find pictures, which are subject to some restrictions. These restrictions can be found under each picture. |
+| [Wallpapers.io](https://wallpapers.io/) | The images offered on this website are basically subject to the Creative Commons Zero License CC0. |
+| [depositphotos](https://depositphotos.com/) | In a library of 170 million files, you'll always find what you need. |
+| [rawpixel](https://www.rawpixel.com) | The best safe to use design resources for everyone. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -239,6 +241,21 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Retro Vectors](http://retrovectors.com/) |  source of graphic elements for projects. Quality vector stock that is available for personal and commercial work. |
 | [Adobe Stock](https://stock.adobe.com/vectors) | Discover royalty-free stock vectors |
 | [Clipart](https://www.clipart.email/) | Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
+| [VectorStock](https://www.vectorstock.com/) | VectorStock is the world’s Premier Vector-only Image Marketplace |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Website Backgrounds & Textured Images
+> Collections of images textured images  you can use for the background of your site.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Transparent Textures](https://www.transparenttextures.com/) | Standing on the shoulders of Subtle Patterns. Built and maintained by @mikehearn. |
+| [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) |  |
+| [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -363,6 +380,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [epoch.sh](https://epoch.now.sh/) | Epoch converter |
 | [Ratio Buddy](https://ratiobuddy.com/) | RatioBuddy is a happy little tool to help you calculate aspect ratios. |
 | [RegExr](https://regexr.com/) | RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).  |
+| [Neumorphism.io]#(Neumorphism.io) | Generate Soft-UI CSS code |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -421,7 +439,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [STRV](https://www.strv.com/) | You have the vision for a stunning digital experience. We’re the software design and engineering team that can bring it to life. |
 | [Ramotion](https://www.ramotion.com/) | Ramotion is a team of multidisciplinary digital product experts focused on branding, UI/UX design, mobile, and web development. |
 | [UNFOLD](https://unfoldagency.com/) | We are a digital creative agency with a flair for what excites. Based in colorful Los Angeles.  |
-| [Underbelly](https://underbelly.is/) | https://unfoldagency.com/ |
+| [Underbelly](https://underbelly.is/) | We are a digital design & development agency. |
 | [Balkan Bros](https://bb.agency/) | Our design is human—centric. We develop functional processes that improve products and services. |
 | [Metalab](https://www.metalab.co/) | For over a decade, we’ve helped everyone from tiny web startups to Fortune 50 companies build products that are simple, beautiful and easy to use. |
 | [Focus Lab](https://focuslabllc.com/) | We build brands that lead and inspire |
