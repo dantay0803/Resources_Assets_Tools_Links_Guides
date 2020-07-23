@@ -133,6 +133,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [App Icon Generator](https://appicon.co/) | App Icon Generator |
 | [Line Icons](https://lineicons.com/) | 2000+ Line Icons for Designers and Developers |
 | [Heroicons](http://www.heroicons.com/) | Heroicons are a unique set of icons for your marketing website that make it easy to customize with CSS to better align to your brand.  |
+| [ICONFINDER](https://www.iconfinder.com/) | Search through 4,659,786 SVG icons |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -298,7 +299,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [RankSider](http://tools.ranksider.com/header-checker) | Check the crawlability of an URL |
 | [Pingdom](https://www.pingdom.com/) | We help you gain instant insights into your website’s availability and performance so that you can outsmart competition with an amazing end-user experience. |
 | [GTmetrix](https://gtmetrix.com/) | See how your site performs, reveal why it's slow and discover optimization opportunities. |
-| [DigiCert](SSL Certificate Checker) | If you are having a problem with your SSL certificate installation, please enter the name of your server. Our installation diagnostics tool will help you locate the problem and verify your SSL Certificate installation.  |
+| [DigiCert](https://www.digicert.com/) | If you are having a problem with your SSL certificate installation, please enter the name of your server. Our installation diagnostics tool will help you locate the problem and verify your SSL Certificate installation.  |
 | [SpamZilla](https://www.spamzilla.io) | Find Powerful Expired Domains with great backlinks! Millions of domains, 350,000+ added daily! |
 | [Keyword Tool](https://keywordtool.io) | Generate Titles for sites such as Google, YouTube and eBay etc from autocomplete searches. |
 
@@ -382,7 +383,10 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [epoch.sh](https://epoch.now.sh/) | Epoch converter |
 | [Ratio Buddy](https://ratiobuddy.com/) | RatioBuddy is a happy little tool to help you calculate aspect ratios. |
 | [RegExr](https://regexr.com/) | RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).  |
-| [Neumorphism.io]#(Neumorphism.io) | Generate Soft-UI CSS code |
+| [Neumorphism.io](https://www.neumorphism.io) | Generate Soft-UI CSS code |
+| [Squircley!](https://squircley.app/) | Looking to add some premium squircley goodness to add to your designs? |
+| [Blobmaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs |
+| [Getwaves](https://getwaves.io/) | Getwaves is a free generative design tool made with 💕 by z creative labs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
