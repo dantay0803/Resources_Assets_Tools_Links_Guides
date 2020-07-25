@@ -39,6 +39,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Devhints React.js cheat Sheet](https://devhints.io/react) | For React v15 to v16 |
 | [Regex Cheat Sheet by Emma Bostian](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a) | Regex Cheat Sheet from [Emma Bostian](https://twitter.com/EmmaBostian) |
 | [Regex Cheat Sheet by Luke Haas](https://projects.lukehaas.me/regexhub/) | Regex Cheat Sheet from [Luke Haas](https://twitter.com/lukehaas) |
+| [BEM](https://9elements.com/bem-cheat-sheet/?ref=heydesigner) | This tool aims to help you to not get lost in the BEM cosmos by giving you naming-suggestions for some of the most common web components. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -465,6 +466,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Dribbble](https://dribbble.com/) | Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals. |
+| [Dribbble Colors](https://dribbble.com/colors/000000?percent=30) | Search designs using colours. |
+| [Behance](https://www.behance.net/) | Find & showcase creative work. |
 | [siteInspire](https://www.siteinspire.com/) | siteInspire is a showcase of the finest web and interactive design. |
 | [Landing Pages Hub](https://landub.com/industry/design/) | Community of designers and makers to explore, share, and get inspired by beautifully designed landing pages of startups like yours. |
 | [CallToIdea](https://calltoidea.com/) | Calltoidea is a platform for designers needed to find the right inspiration according to the needs. |
@@ -475,6 +478,19 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [UI Movement](https://uimovement.com/tag/agency-site/) | Join 29,325 designers & developers who get the best UI design inspiration in their inboxes weekly |
 | [Muzli](https://medium.muz.li/) | The freshest links about design and interactive, from around the web. |
 | [tictoc](https://www.tictocdigital.co.uk/journal) | Thoughts & insights. |
+| [Landingfolio](https://www.landingfolio.com/?offset=2) | Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
+| [Convertux Interfaces](https://interfaces.convertux.com/) | nterfaces by Convertux is a brand-focused collection of user interface (UI) design examples. |
+| [Creative Portfolios](https://www.creative-portfolios.com/) | Is a curation of the most creative portfolios made by designers & developers. |
+| [WebDesign Insperation](https://www.webdesign-inspiration.com/) | We keep you updated with the best website design ideas and trends |
+| [Code My UI](https://codemyui.com/) | Web Design & UI Inspiration with Code Snippets |
+| [One Page Love](https://onepagelove.com/) | One Page websites, templates and resources |
+| [Httpster](https://httpster.net/2020/jul/) | Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world. |
+| [DesignMunk](https://designmunk.com/) | DesignMunk is a curated gallery showcasing fresh and amazing landing and homepage design inspirations. |
+| [scrnshts](https://scrnshts.club/) |  |
+| [Saas Pages](https://saaspages.xyz/) | Each block lists the best practices to convert the most visitors to customers. |
+| [Hyperpixel](https://hyperpixel.io/) | Discover the latest designs for your own inspiration from our curated list of landing pages. |
+| [Saas Laning Page](https://saaslandingpage.com/) | Discover the best 440 landing page examples created by top-class SaaS companies, and get ideas and inspiration. |
+| [Mobbin](https://mobbin.design/) | Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -502,8 +518,6 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Dave Seah](https://davidseah.com/productivity-tools/) | Here you’ll find tools I’ve made for time tracking, goal setting, task management, and forming habits. |
-| []() |  |
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
