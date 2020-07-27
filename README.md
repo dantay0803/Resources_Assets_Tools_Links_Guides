@@ -29,6 +29,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [1-Line Layouts](https://1linelayouts.glitch.me/) | 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. |
 | [Rico's cheatsheets ](https://devhints.io/) | Cheat Sheets written by [@rstacruz](https://twitter.com/rstacruz) |
 | [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) | The guidelines for accessible content have four overarching principles, each with more specific guidelines. |
 | [CSS Layout cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)| The CSS layout cookbook aims to bring together recipes for common layout patterns, things you might need to implement in your own sites. |
