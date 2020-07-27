@@ -352,6 +352,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [The A11Y Project](https://www.a11yproject.com/) | The A11Y Project is a community-driven effort to make digital accessibility easier. |
 | [Shopify Polaris](https://polaris.shopify.com/) | Our design system helps us work together to build a great experience for all of Shopify’s merchants. |
 | [Atlassian](https://atlassian.design/) | Use Atlassian’s end-to-end design language to create straightforward and beautiful experiences. |
 | [Marvel](https://marvelapp.com/styleguide/overview/introduction) | As Marvel continues to grow, both as a product and a company, one challenge we are faced with is learning how to refine the Marvel brand identity and apply it cohesively to each of our products. |
