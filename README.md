@@ -493,6 +493,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Hyperpixel](https://hyperpixel.io/) | Discover the latest designs for your own inspiration from our curated list of landing pages. |
 | [Saas Laning Page](https://saaslandingpage.com/) | Discover the best 440 landing page examples created by top-class SaaS companies, and get ideas and inspiration. |
 | [Mobbin](https://mobbin.design/) | Mobbin is a hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. |
+| [React Rocks](https://react.rocks/) | Examples of various projects created with ReactJS, featuring demos and source code. |
+| [Made With React](https://madewithreact.com/) | A collection of websites and applications using the React or React Native JavaScript library. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
