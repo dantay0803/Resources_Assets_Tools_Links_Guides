@@ -23,6 +23,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Design Inspiration](#design-inspiration)
 - [Themes, UI Kits & Templates](#themes-ui-kits--templates)
 - [Productivity Tools](#productivity-tools)
+- [Open Source](#open-source)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -390,6 +391,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Squircley!](https://squircley.app/) | Looking to add some premium squircley goodness to add to your designs? |
 | [Blobmaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs |
 | [Getwaves](https://getwaves.io/) | Getwaves is a free generative design tool made with 💕 by z creative labs |
+| [Reactotron](https://github.com/infinitered/reactotron) | Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -523,6 +525,18 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Dave Seah](https://davidseah.com/productivity-tools/) | Here you’ll find tools I’ve made for time tracking, goal setting, task management, and forming habits. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## Open Source
+> Open Source projects and ways to get involved.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Up For Grabs](https://up-for-grabs.net/#/) | This is a list of projects which have curated tasks specifically for new contributors. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
