@@ -262,6 +262,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Transparent Textures](https://www.transparenttextures.com/) | Standing on the shoulders of Subtle Patterns. Built and maintained by @mikehearn. |
 | [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) |  |
 | [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects. |
+| [BGJar](https://bgjar.com/) | Free svg background generator for your websites, blogs and app. |
 
 
 <div align="right">
