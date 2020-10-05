@@ -138,6 +138,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Line Icons](https://lineicons.com/) | 2000+ Line Icons for Designers and Developers |
 | [Heroicons](http://www.heroicons.com/) | Heroicons are a unique set of icons for your marketing website that make it easy to customize with CSS to better align to your brand.  |
 | [ICONFINDER](https://www.iconfinder.com/) | Search through 4,659,786 SVG icons |
+| [IconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=928910394) | IconPark gives access to more than 1,200 high-quality icons, and introduces an interface for customizing your icons. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
