@@ -139,6 +139,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Heroicons](http://www.heroicons.com/) | Heroicons are a unique set of icons for your marketing website that make it easy to customize with CSS to better align to your brand.  |
 | [ICONFINDER](https://www.iconfinder.com/) | Search through 4,659,786 SVG icons |
 | [IconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=928910394) | IconPark gives access to more than 1,200 high-quality icons, and introduces an interface for customizing your icons. |
+| [Free Favicon Maker](https://formito.com/tools/favicon) | Hos Shams - Free Favicon Maker |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -153,6 +154,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Payment Logos](https://github.com/mpay24/payment-logos/) | A collection of logos for payment systems Every logo is available in png and svg, colored and gray |
 | [LogoHub](https://logohub.io/) | Create the logo for your next project |
 | [Instant Logo Search](http://instantlogosearch.com/) | Search & download thousands of logos instantly |
+| [Name Cheap Free Logo Maker](https://www.namecheap.com/logo-maker/app/new) | Name Cheap Free Logo Maker |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -395,6 +397,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Blobmaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs |
 | [Getwaves](https://getwaves.io/) | Getwaves is a free generative design tool made with 💕 by z creative labs |
 | [Reactotron](https://github.com/infinitered/reactotron) | Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps. |
+| [LayoutIt](https://grid.layoutit.com/) | Interactive CSS Grida Generator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
