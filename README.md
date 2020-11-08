@@ -24,6 +24,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Themes, UI Kits & Templates](#themes-ui-kits--templates)
 - [Productivity Tools](#productivity-tools)
 - [Open Source](#open-source)
+- [Lottie Animations](#lottie-animations)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -543,6 +544,17 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Up For Grabs](https://up-for-grabs.net/#/) | This is a list of projects which have curated tasks specifically for new contributors. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Lottie Animations
+> Collection of websites that provide lottie animations.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [LottieFiles](https://lottiefiles.com/) | Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks. . |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
