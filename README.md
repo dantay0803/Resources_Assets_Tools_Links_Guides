@@ -349,6 +349,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Type Scale](https://type-scale.com/) | A Type Scale tool |
 | [Font Squirrel](https://www.fontsquirrel.com/matcherator) | Upload an image with type and we’ll identify the fonts that match. |
 | [My Fonts](https://www.myfonts.com/WhatTheFont/) | Instant font identification powered by the world’s largest collection of fonts. |
+| [Operator Lookup](https://joshwcomeau.com/operator-lookup/) | https://joshwcomeau.com/operator-lookup/ |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
