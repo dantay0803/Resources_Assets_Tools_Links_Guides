@@ -44,6 +44,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Regex Cheat Sheet by Luke Haas](https://projects.lukehaas.me/regexhub/) | Regex Cheat Sheet from [Luke Haas](https://twitter.com/lukehaas) |
 | [BEM](https://9elements.com/bem-cheat-sheet/?ref=heydesigner) | This tool aims to help you to not get lost in the BEM cosmos by giving you naming-suggestions for some of the most common web components. |
 | [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits?ck_subscriber_id=928910394) | A continuously-evolving compendium of javascript tips based on common areas of confusion or misunderstanding. |
+| [This page is a truly naked, brutalist html quine.](https://secretgeek.github.io/html_wysiwyg/html.html) | Did you know that the rules of html and css allow you to make every element visible, even elements like 'title' or 'style' or 'script', that are normally hidden from view? |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
