@@ -142,6 +142,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [ICONFINDER](https://www.iconfinder.com/) | Search through 4,659,786 SVG icons |
 | [IconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=928910394) | IconPark gives access to more than 1,200 high-quality icons, and introduces an interface for customizing your icons. |
 | [Free Favicon Maker](https://formito.com/tools/favicon) | Hos Shams - Free Favicon Maker |
+| [Phosphor](https://phosphoricons.com/) | Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
