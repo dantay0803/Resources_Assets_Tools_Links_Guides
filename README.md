@@ -220,6 +220,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Spline](https://spline.design/) | Easily create and publish 3D web experiences. Build and iterate fast with production-ready results. |
 | [Unity Asset Store](https://assetstore.unity.com/?category=3d&orderBy=1) | Free and Paid 3D models |
 | [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free) | Thousands of free 3D models available for download. Files available in all major formats - max, fbx, obj, c4d, maya. |
 | [GrabCad Community](https://grabcad.com/library) | Join 7,560,000 engineers with over 4,300,000 free CAD files |
