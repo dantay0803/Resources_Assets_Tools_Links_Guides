@@ -45,6 +45,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [BEM](https://9elements.com/bem-cheat-sheet/?ref=heydesigner) | This tool aims to help you to not get lost in the BEM cosmos by giving you naming-suggestions for some of the most common web components. |
 | [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits?ck_subscriber_id=928910394) | A continuously-evolving compendium of javascript tips based on common areas of confusion or misunderstanding. |
 | [This page is a truly naked, brutalist html quine.](https://secretgeek.github.io/html_wysiwyg/html.html) | Did you know that the rules of html and css allow you to make every element visible, even elements like 'title' or 'style' or 'script', that are normally hidden from view? |
+| [Sticky CSS Grid Items](https://melanie-richards.com/blog/css-grid-sticky/?ref=heydesigner) | If you’ve ever tried to put a sticky item in a grid layout and watched the item scroll away with the rest of the content, you might have come to the conclusion that position: sticky doesn’t work with CSS Grid. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -143,6 +144,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [IconPark](https://github.com/bytedance/IconPark?ck_subscriber_id=928910394) | IconPark gives access to more than 1,200 high-quality icons, and introduces an interface for customizing your icons. |
 | [Free Favicon Maker](https://formito.com/tools/favicon) | Hos Shams - Free Favicon Maker |
 | [Phosphor](https://phosphoricons.com/) | Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really. |
+| [zwicon](https://www.zwicon.com/cheatsheet.html) | Icons by zwoelf. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
