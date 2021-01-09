@@ -258,6 +258,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Adobe Stock](https://stock.adobe.com/vectors) | Discover royalty-free stock vectors |
 | [Clipart](https://www.clipart.email/) | Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [VectorStock](https://www.vectorstock.com/) | VectorStock is the world’s Premier Vector-only Image Marketplace |
+| [SVG Repo](https://www.svgrepo.com) | Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -405,6 +406,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Getwaves](https://getwaves.io/) | Getwaves is a free generative design tool made with 💕 by z creative labs |
 | [Reactotron](https://github.com/infinitered/reactotron) | Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps. |
 | [LayoutIt](https://grid.layoutit.com/) | Interactive CSS Grida Generator |
+| [WICKEDBLOCKS](https://blocks.wickedtemplates.com) | Open source growing collection of layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
