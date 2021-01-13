@@ -145,6 +145,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Free Favicon Maker](https://formito.com/tools/favicon) | Hos Shams - Free Favicon Maker |
 | [Phosphor](https://phosphoricons.com/) | Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really. |
 | [zwicon](https://www.zwicon.com/cheatsheet.html) | Icons by zwoelf. |
+| [Weather Icons](https://erikflowers.github.io/weather-icons/) | 222 Weather Themed Icons and CSS |
+| [Line Awesome](https://icons8.com/line-awesome) | Swap Font Awesome for modern line icons in one line of code |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -259,6 +261,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Clipart](https://www.clipart.email/) | Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [VectorStock](https://www.vectorstock.com/) | VectorStock is the world’s Premier Vector-only Image Marketplace |
 | [SVG Repo](https://www.svgrepo.com) | Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use. |
+| [Open Peeps](https://www.openpeeps.com/) | A hand-drawn illustration library. |
+| [Toy Faces](https://amritpaldesign.com/toy-faces) | Toy Faces is a fun diverse library of 3D avatars for your design mockups and commercial projects.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -407,6 +411,9 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [Reactotron](https://github.com/infinitered/reactotron) | Reactotron is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps. |
 | [LayoutIt](https://grid.layoutit.com/) | Interactive CSS Grida Generator |
 | [WICKEDBLOCKS](https://blocks.wickedtemplates.com) | Open source growing collection of layout blocks and components built with Tailwind CSS V2 ready to copy paste on your Tailwind project. |
+| [PanelleJS](https://andrewfulrich.gitlab.io/panelle/) | This tool helps you make comic book panels |
+| [css-media-vars](https://propjockey.github.io/css-media-vars/) | css-media-vars adds several --custom-css-variables, all namespaced with "--media-" and based on media queries, onto the HTML tag. |
+| [Shadows](https://brumm.af/shadows) | Make a smooth shadow, friend. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -529,6 +536,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [SimpleMDE Markdown Editor](https://simplemde.com/) | SimpleMDE is a simple, embeddable, and beautiful JS markdown editor |
 | [Tailblocks](https://mertjf.github.io/tailblocks/) | Components created using Tailwind CSS |
 | [ReactJS Examples](https://reactjsexample.com/) | Templates and examples of various ReactJS components and functionality. |
+| [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit) | Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
