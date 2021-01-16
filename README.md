@@ -25,6 +25,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 - [Productivity Tools](#productivity-tools)
 - [Open Source](#open-source)
 - [Lottie Animations](#lottie-animations)
+- [Courses](#courses)
 
 ## Cheat Sheets
 > A selection of various online cheats sheets.
@@ -570,7 +571,18 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [LottieFiles](https://lottiefiles.com/) | Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks. . |
+| [LottieFiles](https://lottiefiles.com/) | Lottie animations and the tools you need to test and perfect them. Simply edit and ship your animations in just a few clicks.|
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Courses
+> Collection of free and paid courses.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Full Stack UI](https://fullstackui.com/course) | Learn to design process from pen and paper sketches to visual design and actual development in plain HTML/CSS/JS. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
