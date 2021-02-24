@@ -415,6 +415,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [PanelleJS](https://andrewfulrich.gitlab.io/panelle/) | This tool helps you make comic book panels |
 | [css-media-vars](https://propjockey.github.io/css-media-vars/) | css-media-vars adds several --custom-css-variables, all namespaced with "--media-" and based on media queries, onto the HTML tag. |
 | [Shadows](https://brumm.af/shadows) | Make a smooth shadow, friend. |
+| [Glassmorphism ](https://glassmorphism.com/) | Glassmorphism is a unified name for the popular Frosted Glass aesthetic. It has many names depending on the company using it, so we wanted to create a common ground for designers and developers to find related resources easier and faster. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
