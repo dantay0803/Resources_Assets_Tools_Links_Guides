@@ -47,6 +47,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits?ck_subscriber_id=928910394) | A continuously-evolving compendium of javascript tips based on common areas of confusion or misunderstanding. |
 | [This page is a truly naked, brutalist html quine.](https://secretgeek.github.io/html_wysiwyg/html.html) | Did you know that the rules of html and css allow you to make every element visible, even elements like 'title' or 'style' or 'script', that are normally hidden from view? |
 | [Sticky CSS Grid Items](https://melanie-richards.com/blog/css-grid-sticky/?ref=heydesigner) | If you’ve ever tried to put a sticky item in a grid layout and watched the item scroll away with the rest of the content, you might have come to the conclusion that position: sticky doesn’t work with CSS Grid. |
+| [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3) | Let's refresh Our CSS Grid Memory. Here's a Cheat Sheet of everything you can do with Grid to get started in 2021!🎖️|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -415,7 +416,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [PanelleJS](https://andrewfulrich.gitlab.io/panelle/) | This tool helps you make comic book panels |
 | [css-media-vars](https://propjockey.github.io/css-media-vars/) | css-media-vars adds several --custom-css-variables, all namespaced with "--media-" and based on media queries, onto the HTML tag. |
 | [Shadows](https://brumm.af/shadows) | Make a smooth shadow, friend. |
-| [Glassmorphism ](https://glassmorphism.com/) | Glassmorphism is a unified name for the popular Frosted Glass aesthetic. It has many names depending on the company using it, so we wanted to create a common ground for designers and developers to find related resources easier and faster. |
+| [Glassmorphism](https://glassmorphism.com/) | Glassmorphism is a unified name for the popular Frosted Glass aesthetic. It has many names depending on the company using it, so we wanted to create a common ground for designers and developers to find related resources easier and faster. |
+| [conic.css](https://conic.style/) | Nice, simple conic gradients |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -584,6 +586,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Full Stack UI](https://fullstackui.com/course) | Learn to design process from pen and paper sketches to visual design and actual development in plain HTML/CSS/JS. |
+| [The Ultimate CSS Grid Tutorial for Beginners](https://www.codeinwp.com/blog/css-grid-tutorial-layout/?utm_source=Responsive+Design+Weekly&utm_campaign=3e225460b1-RWD_Newsletter_449&utm_medium=email&utm_term=0_df65b6d7c8-3e225460b1-59177205) | This CSS Grid Layout tutorial will include specific interactive demos showcasing many of the features of the Grid Layout spec. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
