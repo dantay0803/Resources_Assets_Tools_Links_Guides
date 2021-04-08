@@ -48,6 +48,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [This page is a truly naked, brutalist html quine.](https://secretgeek.github.io/html_wysiwyg/html.html) | Did you know that the rules of html and css allow you to make every element visible, even elements like 'title' or 'style' or 'script', that are normally hidden from view? |
 | [Sticky CSS Grid Items](https://melanie-richards.com/blog/css-grid-sticky/?ref=heydesigner) | If you’ve ever tried to put a sticky item in a grid layout and watched the item scroll away with the rest of the content, you might have come to the conclusion that position: sticky doesn’t work with CSS Grid. |
 | [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3) | Let's refresh Our CSS Grid Memory. Here's a Cheat Sheet of everything you can do with Grid to get started in 2021!🎖️|
+| [ESLint + VSCode](https://daveceddia.com/vscode-use-eslintrc/?ck_subscriber_id=826047536) | ESLint + VSCode: How to Format Your Code Using .eslintrc|
+| [The React Native Guide I Wish I Had!](https://blog.theodo.com/2021/03/react-native-ts-redux-guide-p1/) | During my first week at Theodo, I had a lot to learn about the main technologies used within the company. I focused my attention on learning to build a simple React Native application using Typescript and Redux.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
