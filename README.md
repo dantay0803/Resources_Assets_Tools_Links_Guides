@@ -588,7 +588,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Full Stack UI](https://fullstackui.com/course) | Learn to design process from pen and paper sketches to visual design and actual development in plain HTML/CSS/JS. |
-| [The Ultimate CSS Grid Tutorial for Beginners](https://www.codeinwp.com/blog/css-grid-tutorial-layout/?utm_source=Responsive+Design+Weekly&utm_campaign=3e225460b1-RWD_Newsletter_449&utm_medium=email&utm_term=0_df65b6d7c8-3e225460b1-59177205) | This CSS Grid Layout tutorial will include specific interactive demos showcasing many of the features of the Grid Layout spec. |
+| [The Ultimate CSS Grid Tutorial for Beginners](https://www.codeinwp.com/blog/css-grid-tutorial-layout) | This CSS Grid Layout tutorial will include specific interactive demos showcasing many of the features of the Grid Layout spec. |
+| [Learn CSS](https://web.dev/learn/css/) | This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
