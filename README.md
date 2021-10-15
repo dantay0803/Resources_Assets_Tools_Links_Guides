@@ -151,6 +151,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [zwicon](https://www.zwicon.com/cheatsheet.html) | Icons by zwoelf. |
 | [Weather Icons](https://erikflowers.github.io/weather-icons/) | 222 Weather Themed Icons and CSS |
 | [Line Awesome](https://icons8.com/line-awesome) | Swap Font Awesome for modern line icons in one line of code |
+| [OpenMoji](https://openmoji.org/?ref=heydesigner) | Open source emojis for designers, developers and everyone else! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
