@@ -50,6 +50,7 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3) | Let's refresh Our CSS Grid Memory. Here's a Cheat Sheet of everything you can do with Grid to get started in 2021!🎖️|
 | [ESLint + VSCode](https://daveceddia.com/vscode-use-eslintrc/?ck_subscriber_id=826047536) | ESLint + VSCode: How to Format Your Code Using .eslintrc|
 | [The React Native Guide I Wish I Had!](https://blog.theodo.com/2021/03/react-native-ts-redux-guide-p1/) | During my first week at Theodo, I had a lot to learn about the main technologies used within the company. I focused my attention on learning to build a simple React Native application using Typescript and Redux.|
+| [useHooks](https://usehooks.com/) | Easy to understand React Hook recipes by ui.dev |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -423,6 +424,8 @@ A collection of free and paid resources, assets, tools, links and guides for dev
 | [conic.css](https://conic.style/) | Nice, simple conic gradients |
 | [Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/) | Animated Gradient Background Generator |
 | [ONLINE IMAGE COMPRESSION & OPTIMIZATION](https://shortpixel.com/online-image-compression) | Compress JPG, PNG and GIF online. |
+| [Addy's Toolkit](https://toolkit.addy.codes/) | 704 hand-picked tools & resources for web designers & developers |
+| [TinyWow](https://tinywow.com/) | We offer PDF, video, image and other online tools to make your life easier |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
